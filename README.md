@@ -15,5 +15,6 @@ Reestar is a static HTML website that I created and tested locally. It demonstra
 - `Reestar.html` — main webpage
 
 ## How to run
-git clone https://github.com/GLakshika/FrontEnd.git
-cd FrontEnd
+1. git clone https://github.com/GLakshika/FrontEnd.git
+2. cd FrontEnd
+- I created another html file booksky. You can also visit that. 
