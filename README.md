@@ -13,3 +13,7 @@ Reestar is a static HTML website that I created and tested locally. It demonstra
 ## Project structure
 
 - `Reestar.html` — main webpage
+
+## How to run
+git clone https://github.com/GLakshika/FrontEnd.git
+cd FrontEnd
