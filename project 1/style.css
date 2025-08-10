@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+li{
+    color: gray;
+    cursor: pointer;
+    display: inline-block;
+}
+li:hover{
+    color: white;
+    
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-top: 10px;
+    text-align: center;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.foods{
+    text-align: center;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
